@@ -379,7 +379,6 @@ export default class FormElement extends FormGroup {
    * @type array
    * @protected
    */
-  @defaultValue
   errors = null;
 
   /**
